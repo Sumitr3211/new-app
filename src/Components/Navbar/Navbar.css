@@ -103,6 +103,10 @@ nav {
     color: #3685fb;
 }
 
+li.link {
+    text-transform: capitalize;
+}
+
 /* Media queries for mobile responsiveness */
 @media (max-width: 768px) {
     .nav__logo {
